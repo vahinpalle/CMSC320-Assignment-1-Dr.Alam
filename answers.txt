@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Machine learning as data science is very applicable when making models and labeling/analyzing datasets.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the entire history of the code while rebasing creates a linear history.
