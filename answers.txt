@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: One may be considering using git because of its efficient use of version control and collaboration with others.
