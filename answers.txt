@@ -9,3 +9,8 @@ Answer: Machine learning as data science is very applicable when making models a
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the entire history of the code while rebasing creates a linear history.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in SQL and become more proficient in it. I would love to learn more in terms of machine learning models and work on that.
+
